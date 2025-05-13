@@ -12,11 +12,9 @@
   
 - 🔒 **Security Enthusiast** | **Cryptographer** | **Linux**
 
-- 🌱 Currently learning advanced security & cryptography  
+- 🌱 **Currently learning advanced security & cryptography**  
 
-- 💬 Passionate about building scalable, efficient, and user-friendly applications.
-
-- 📫 How to reach me **[DulangaRukshan@pront.me](mailto:dulangarukshan@pronton.me)**
+- 📫 **How to reach me [Dulangarukshan@proton.me](mailto:dulangarukshan@proton.me)**
 
 - 🛠️ **CTF Player** | **Open-Source Contributor**
   
