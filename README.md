@@ -1,5 +1,5 @@
 </div><p align="center" ><img  src = "./gifs/about_me.gif" width = 100px></p>
-<h1 align="center"><img src="./gifs/hello.gif" width="24px"> Hi, I'm Dulanga Rukshan</h1>
+<h1 align="center"><img src="./gifs/hello.gif" width="24px"> Holla, I'm Dulanga Rukshan</h1>
 
 <p align="center">
 
@@ -22,10 +22,11 @@
 
 <p align="center">
   <table align="center">
-  <tr border="none">
+  <tr border="">
     <td width="50%" align="justify-content" height="150px">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanga-Rukshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dulanga-Rukshan&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&hide_title=true&&hide_border=true"/>
+
+---
   
   </td>
 
