@@ -1,6 +1,6 @@
 
 </div><p align="center" ><img  src = "./gifs/about_me.gif" width = 100px></p>
-<h1 align="center"><img src="./gifs/hello.gif" width="24px"> Привет, я Dulanga Rukshan</h1>
+<h1 align="center"><img src="./gifs/hello.gif" width="24px"> Привет, я Rukshan</h1>
 
 <table align="center">
 
