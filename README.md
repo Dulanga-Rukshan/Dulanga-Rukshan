@@ -8,7 +8,7 @@
 <td width="80%" align="left">
 
   
-- 🔒 **Security Enthusiast** | **Cryptographer** | **Linux**
+- 🔒 **Cryptographer** | **Linux**
 
 - 🌱 **Currently learning advanced security & cryptography**  
 
